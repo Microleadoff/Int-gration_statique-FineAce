@@ -5,7 +5,7 @@
 
 # Intégration statique Fineance
 
-Ce repository contient le starter kit du projet intégration statique FineAce disponible sur [Microlead.fr](https://microlead.fr)
+Ce repository contient le starter kit du projet intégration statique FineAnce disponible sur [Microlead.fr](https://microlead.fr)
 
 ## Prérequis
 
