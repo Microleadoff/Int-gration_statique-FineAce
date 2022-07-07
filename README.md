@@ -15,7 +15,7 @@ Ce repository contient le starter kit du projet intégration statique FineAnce d
 ## Importation dans figma
 Afin de pouvoir intégrer correctement la maquette en vous positionnant en situation professionnelle, vous avez besoin d'un logiciel dédié utilisé par les graphistes. Figma est un logiciel de graphisme en ligne vous permettant d'interagir avec des travaux graphisques gratuitement : 
 
-- Rendez vous sur le site Figma
+- Rendez vous sur le site [Figma](https://www.figma.com/)
 - Créez vous un compte et connectez-vous
 - Dans votre espace de travail, faites un "glisser-déposer" du fichier .svg fourni dans ce repository dans le dossier "Figma"
 - Vous avez maintenant accès à l'ensemble de la maquette
